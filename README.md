@@ -4,9 +4,11 @@ Chances are you're reading this because you're interested in Tripp Lite's PADM 2
 
 With that out of the way, here's a running list of what I have going:
 
-Some basic examples here on Postman:
+Some basic examples here on Postman: 
+
 https://documenter.getpostman.com/view/6407998/TVepAonM
 
 A Python script that takes user input and uses that to login, read info on load 1, and turn load 1 off:
+
 https://github.com/dzomaya/PADM20API_SANDBOX/blob/main/load1off.py
 
