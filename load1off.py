@@ -23,8 +23,6 @@ token = jsondata.get('access_token')
 
 # Read info about the loads
 # This does NOT display to user
-
-
 # Add the token to the request headers
 headers= {'Authorization': 'Bearer {}' .format(token),}
 
