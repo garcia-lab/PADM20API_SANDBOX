@@ -2,7 +2,7 @@
 
 Chances are you're reading this because you're interested in Tripp Lite's PADM 20 platform and our new RESTful API. Nothing you find here will be ready for production use as-is, but you may find some useful examples or docs that help. Feel free to reach out to me directly if you have questions. 
 
-With that out of the way, here's a running list of what I have going:
+With that out of the way, below is a running list of what I have going.
 
 Some basic examples here on Postman: 
 
