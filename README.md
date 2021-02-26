@@ -1,2 +1,11 @@
 # PADM20API_SANDBOX
-My Sandbox for PADM20 REST API examples and code
+
+Chances are you're reading this because you're interested in Tripp Lite's PADM 20 platform and our new RESTful API. Nothing you find here will be ready for production use as-is, but you may find some useful examples or docs that help. Feel free to reach out to me directly if you have questions. 
+
+With that out of the way, here's a running list of what I have going:
+
+Some basic examples here on Postman:
+https://documenter.getpostman.com/view/6407998/TVepAonM
+
+A Python script that takes user input and uses that to login, read info on load 1, and turn load 1 off:
+
