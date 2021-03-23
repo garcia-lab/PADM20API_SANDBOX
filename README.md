@@ -12,3 +12,4 @@ A Python script that takes user input and uses that to login, read info on load 
 
 https://github.com/dzomaya/PADM20API_SANDBOX/blob/main/load1off.py
 
+Feel free to reach out to me here or at david_zomaya AT tripplite DOT com
