@@ -7,6 +7,7 @@ With that out of the way, below is a running list of what I have going.
 Some basic examples here on Postman: 
 
 https://documenter.getpostman.com/view/6407998/TVt17Pi2
+
 https://documenter.getpostman.com/view/6407998/TzY3BbAP
 
 A Python script that takes user input and uses that to login, read info on load 1, and turn load 1 off:
